@@ -1,0 +1,188 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "COMP/STAT212 Portfolio",
+    "section": "",
+    "text": "Welcome to my online portfolio for COMP/STAT112 course taken at Macalester College. Please, use the side bar on the left for navigation.\n\n\n\n\n\n\nHello.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "pvj/pvj-01.html",
+    "href": "pvj/pvj-01.html",
+    "title": "Personal Visualization Journey",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "Personal Viz Journey",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Personal Visualization Journey</span>"
+    ]
+  },
+  {
+    "objectID": "tt/2025-07-08.html",
+    "href": "tt/2025-07-08.html",
+    "title": "TidyTuesday Sample 1",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "TidyTuesday",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>TidyTuesday Sample 1</span>"
+    ]
+  },
+  {
+    "objectID": "tt/2025-07-15.html",
+    "href": "tt/2025-07-15.html",
+    "title": "TidyTuesday Sample 2",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "TidyTuesday",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>TidyTuesday Sample 2</span>"
+    ]
+  },
+  {
+    "objectID": "pcl/pcl.html",
+    "href": "pcl/pcl.html",
+    "title": "Pre-Class Learning Summaries",
+    "section": "",
+    "text": "R",
+    "crumbs": [
+      "Pre-Class Learnings",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Class Learning Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "pcl/pcl.html#quarto",
+    "href": "pcl/pcl.html#quarto",
+    "title": "Pre-Class Learning Summaries",
+    "section": "Quarto",
+    "text": "Quarto\n\n\n\nfrom qmd4sci.njtierney.com",
+    "crumbs": [
+      "Pre-Class Learnings",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Class Learning Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "ica/ica-sample1.html",
+    "href": "ica/ica-sample1.html",
+    "title": "ICA Sample 1",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>ICA Sample 1</span>"
+    ]
+  },
+  {
+    "objectID": "ica/ica-sample2.html",
+    "href": "ica/ica-sample2.html",
+    "title": "ICA Sample 2",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>ICA Sample 2</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html",
+    "href": "ica/quarto-demo.html",
+    "title": "My first Quarto document",
+    "section": "",
+    "text": "Intro\nMacalester College is in the Twin Cities. It has:\nCheck it out for yourself:",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#intro",
+    "href": "ica/quarto-demo.html#intro",
+    "title": "My first Quarto document",
+    "section": "",
+    "text": "four seasons\nbagpipes\ndelightful students",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#exercise-1-deduce-quarto-features",
+    "href": "ica/quarto-demo.html#exercise-1-deduce-quarto-features",
+    "title": "My first Quarto document",
+    "section": "Exercise 1: Deduce Quarto features",
+    "text": "Exercise 1: Deduce Quarto features\nCheck out the appearance and contents of this document. Thoughts?\nIn the toolbar at the top of this document, Render the .qmd file into a .html file. Where is this file stored? Thoughts about its appearance / contents? Can you edit it?\nToggling between the .qmd and .html files, explain the purpose of the following features in the .qmd file:\n* Italics\n** Bold\n# Commenting\n-Bullet points\n\\ Renders space between lines in .html files\n![](url) creates link\n## Exercise 2: Code\nHow does this appear in the .qmd? The .html? So…?!\nseq(from = 100, to = 1000, by = 50) It appears the exact same",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#exercise-3-chunks",
+    "href": "ica/quarto-demo.html#exercise-3-chunks",
+    "title": "My first Quarto document",
+    "section": "Exercise 3: Chunks",
+    "text": "Exercise 3: Chunks\nQuarto isn’t a mind reader – we must distinguish R code from text. We do so by putting code inside an R chunk:\n\nCodeseq(from = 100, to = 1000, by = 50)\n\n [1]  100  150  200  250  300  350  400  450  500  550  600  650  700  750  800\n[16]  850  900  950 1000\n\n\n\nPut the seq() code in the chunk.\nPress the green arrow in the top right of the chunk. What happens in the qmd? - The sequence is generated as an output.\nRender. What appears in the html: R code, output, or both? Both",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#exercise-4-practice",
+    "href": "ica/quarto-demo.html#exercise-4-practice",
+    "title": "My first Quarto document",
+    "section": "Exercise 4: Practice",
+    "text": "Exercise 4: Practice\n\nUse R code to create the following sequence: 10 10 10 10\nStore the sequence as four_tens.\nUse an R function (which we haven’t learned!) to add up the numbers in four_tens.\n\n\nCodefour_tens &lt;- seq(from = 10, to = 10, length = 4)\nfour_tens\n\n[1] 10 10 10 10\n\nCodesum(four_tens)\n\n[1] 40",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#exercise-5-fix-this-code",
+    "href": "ica/quarto-demo.html#exercise-5-fix-this-code",
+    "title": "My first Quarto document",
+    "section": "Exercise 5: Fix this code",
+    "text": "Exercise 5: Fix this code\nCode is a form of communication, and the code below doesn’t cut it.\nPut the code in a chunk and fix it.\n\nCoderep(x = 1, times = 10)\n\n [1] 1 1 1 1 1 1 1 1 1 1\n\nCodeseq(from=100, to=1000, length=20)\n\n [1]  100.0000  147.3684  194.7368  242.1053  289.4737  336.8421  384.2105\n [8]  431.5789  478.9474  526.3158  573.6842  621.0526  668.4211  715.7895\n[15]  763.1579  810.5263  857.8947  905.2632  952.6316 1000.0000\n\nCodeNumber_Students &lt;-27",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "ica/quarto-demo.html#exercise-6-comments",
+    "href": "ica/quarto-demo.html#exercise-6-comments",
+    "title": "My first Quarto document",
+    "section": "Exercise 6: Comments",
+    "text": "Exercise 6: Comments\nRun the chunk below. Notice that R ignores anything in a line starting with a pound sign (#). If we took the # away we’d get an error!\n\nCode# This is a comment\n4 + 5\n\n[1] 9\n\n\nWe’ll utilize this feature to comment our code, i.e. leave short notes about what our code is doing. Below, replace the ??? with an appropriate comment.\n\nCode# This code converts a temperature in Celsius (10) to a temperature in Fahrenheit. The value '10' is stored as temperature_c, and temperature_f is set as the formula for converting c to f. Running temperature_f then gives the temp in Fahrenheit.\ntemperature_c &lt;- 10\ntemperature_f &lt;- temperature_c * 9/5 + 32\ntemperature_f\n\n[1] 50",
+    "crumbs": [
+      "In-Class Activities",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>My first Quarto document</span>"
+    ]
+  },
+  {
+    "objectID": "extra/extra-sample1.html",
+    "href": "extra/extra-sample1.html",
+    "title": "Extra Sample 1",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "Extras",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Extra Sample 1</span>"
+    ]
+  },
+  {
+    "objectID": "extra/extra-sample2.html",
+    "href": "extra/extra-sample2.html",
+    "title": "Extra Sample 2",
+    "section": "",
+    "text": "Add content here",
+    "crumbs": [
+      "Extras",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Extra Sample 2</span>"
+    ]
+  }
+]
